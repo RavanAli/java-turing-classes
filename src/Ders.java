@@ -1,4 +1,4 @@
-public class Scanner {
+public class Ders {
 
     public static void main (String[] args){
 

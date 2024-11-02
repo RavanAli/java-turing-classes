@@ -25,26 +25,26 @@ public class Main {
 
 
 
-        short b = 222;
-        int c = 333;
-        System.out.println(c + b);
+//        short b = 222;
+//        int c = 333;
+//        System.out.println(c + b);
 
 
 
         int num1 = 15;
         int num2 = 7;
 
-        int a = num1 + num2;
-        int s = num1 - num2;
-        int d = num1 / num2;
-        int f = num1 * num2;
-        int g = num1 % num2;
-
-        System.out.println(a);
-        System.out.println(s);
-        System.out.println(d);
-        System.out.println(f);
-        System.out.println(g);
+//        int a = num1 + num2;
+//        int s = num1 - num2;
+//        int d = num1 / num2;
+//        int f = num1 * num2;
+//        int g = num1 % num2;
+//
+//        System.out.println(a);
+//        System.out.println(s);
+//        System.out.println(d);
+//        System.out.println(f);
+//        System.out.println(g);
 
 
 
