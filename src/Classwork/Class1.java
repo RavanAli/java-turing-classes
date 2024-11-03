@@ -1,7 +1,6 @@
-import java.sql.SQLOutput;
-import java.util.Scanner;
+package Classwork;
 
-public class Main {
+public class Class1 {
 
     public static void main(String[] args) {
 

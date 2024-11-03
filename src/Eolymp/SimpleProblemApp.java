@@ -1,6 +1,8 @@
+package Eolymp;
+
 import java.util.Scanner;
 
-public class Simpleproblem {
+public class SimpleProblemApp {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();
