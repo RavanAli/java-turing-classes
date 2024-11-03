@@ -16,7 +16,7 @@ public class BucksintheBankApp {
             given = 2 * given + birthday;
             total =+given;
         }
-        System.out.println(S + " " + birthday);
+        System.out.println(birthday);
 
     }
 }
