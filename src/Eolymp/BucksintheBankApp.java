@@ -9,7 +9,7 @@ public class BucksintheBankApp {
         long S = scanner.nextLong();
         long total = 1;
         long given = 1;
-        int birthday = 1;
+        int birthday = 0;
 
         while(total < S){
             birthday++;
