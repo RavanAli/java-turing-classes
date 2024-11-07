@@ -1,6 +1,6 @@
 package Classwork;
 
-public class Ders {
+public class DersApp {
 
     public static void main (String[] args){
 

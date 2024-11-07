@@ -2,7 +2,7 @@ package Classwork;
 
 import java.util.Scanner;
 
-public class Monthseason {
+public class MonthseasonApp {
 
     public static void main (String[] args){
 
