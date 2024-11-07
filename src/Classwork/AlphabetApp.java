@@ -1,6 +1,6 @@
 package Classwork;
 
-public class Alphabet {
+public class AlphabetApp {
 
     public static void main(String[] args){
 
