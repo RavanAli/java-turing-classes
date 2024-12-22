@@ -1,7 +1,5 @@
 package Bank;
 
-import ClassReplacement.VusalinSinifiApp;
-
 public class BankApp {
     public static void main(String[] args) {
         BankAccount[] accounts = new BankAccount[5];
