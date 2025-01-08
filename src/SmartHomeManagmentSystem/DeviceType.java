@@ -1,4 +1,3 @@
 package SmartHomeManagmentSystem;
 
-public enum DeviceType {
-}
+public enum DeviceType { LIGHT, THERMOSTAT, CAMERA, DOORBELL }
