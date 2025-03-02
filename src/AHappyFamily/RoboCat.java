@@ -1,10 +1,12 @@
 package AHappyFamily;
 
+import java.util.Set;
+
 public class RoboCat extends Pet{
     public RoboCat(Species species, String nickname) {
         super(species, nickname);
     }
-    public RoboCat(String nickname, int age, int trickLevel, String[] habits, Species species) {
+    public RoboCat(String nickname, int age, int trickLevel, Set<String> habits, Species species) {
         super(species, nickname, age, trickLevel, habits);
     }
     @Override

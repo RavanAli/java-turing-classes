@@ -1,4 +1,3 @@
 package ExceptionBank;
 
-public enum Currency {
-}
+public enum Currency {AZN,EUR,USD}

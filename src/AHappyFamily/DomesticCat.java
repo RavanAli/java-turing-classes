@@ -1,11 +1,13 @@
 package AHappyFamily;
 
+import java.util.Set;
+
 public class DomesticCat extends Pet implements Foul{
     private DomesticCat(Species species, String nickname) {
         super(species, nickname);
     }
 
-    private DomesticCat(Species species, String nickname, int age, int trickLevel, String[] habits) {
+    private DomesticCat(Species species, String nickname, int age, int trickLevel, Set<String> habits) {
         super(species, nickname, age, trickLevel, habits);
     }
 

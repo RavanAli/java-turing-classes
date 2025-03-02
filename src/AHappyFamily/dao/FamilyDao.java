@@ -1,4 +1,11 @@
 package AHappyFamily.dao;
+import AHappyFamily.Family;
+import java.util.List;
 
-public class FamilyDao {
+public interface FamilyDao {
+    List<Family> getAllFamilies();
+    Family getFamilyByIndex(int index);
+    boolean deleteFamily(int index);
+    boolean deleteFamily(Family family);
+    void saveFamily(Family family);
 }
